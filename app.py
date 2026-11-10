@@ -17,7 +17,7 @@ st.set_page_config(
 # ==========================================
 
 # Replace this with your deployed Render URL
-API_URL = "https://your-fastapi-app.onrender.com"
+API_URL = "https://employee-management-api-2zmj.onrender.com"
 
 # ==========================================
 # APPLICATION TITLE
